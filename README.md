@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abraham Ochelle 👋
 
-🌟 Aspiring Software Engineer | 💻 Computer Science Student | 🚀 Passionate about Innovation  
+🌟 Aspiring Software Engineer | 💻 Computer Science Student | 🚀 Passionate about Growth  
 
 ---
 
@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-ochelle&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-ochelle&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ochelle-Abraham&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochelle-Abraham&layout=compact&theme=radical)
 
 ---
 
